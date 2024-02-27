@@ -1,0 +1,14 @@
+.grey {
+  color: rgb(132, 132, 183);
+}
+span {
+  color: blue;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 15px;
+  line-height: normal;
+  background: url("https://static.vecteezy.com/system/resources/thumbnails/023/669/545/small/abstract-gradient-pink-blue-liquid-wave-background-free-vector.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
